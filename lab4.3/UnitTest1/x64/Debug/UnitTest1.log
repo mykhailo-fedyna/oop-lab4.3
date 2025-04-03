@@ -1,0 +1,15 @@
+﻿  UnitTest1.cpp
+C:\Users\Федина М\Desktop\1 курс\2 семестр\ООП\Лабораторні ООП\lab4.3\lab4.3.cpp(111,18): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\Федина М\Desktop\1 курс\2 семестр\ООП\Лабораторні ООП\lab4.3\lab4.3.cpp(141,23): warning C4267: '-=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\Федина М\Desktop\1 курс\2 семестр\ООП\Лабораторні ООП\lab4.3\lab4.3.cpp(156,19): warning C4267: '+=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\Федина М\Desktop\1 курс\2 семестр\ООП\Лабораторні ООП\lab4.3\lab4.3.cpp(168,19): warning C4267: '+=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+     Creating library C:\Users\Федина М\Desktop\1 курс\2 семестр\ООП\Лабораторн? ООП\lab4.3\x64\Debug\UnitTest1.lib and object C:\Users\Федина М\Desktop\1 курс\2 семестр\ООП\Лабораторн? ООП\lab4.3\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Федина М\Desktop\1 курс\2 семестр\ООП\Лабораторні ООП\lab4.3\x64\Debug\UnitTest1.dll
